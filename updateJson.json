@@ -3,7 +3,7 @@
   "new_version":6,
   "new_version_name":"6.5.0",
   "apk_file_url": "https://raw.githubusercontent.com/yanqiuqiu/JsonData/master/AndroidApp-release.apk",
-  "update_log": "1，添加删除信用卡接口。\r\n2，添加vip认证。\r\n3，区分自定义消费，一个小时不限制。\r\n4，添加放弃任务接口，小时内不生成。\r\n5，消费任务手动生成。\r\n6，修复少量bug。",
+  "update_log": "1，全新的底层适配框架，优化更多机型。\r\n2，添加vip认证。\r\n3，消费任务手动生成。\r\n4，添加放弃任务接口，小时内不生成。\r\n5，区分自定义消费，一个小时不限制。\r\n6，出行的二级分类加入了地铁、地铁、地铁。\r\n7，修复少量bug。",
   "target_size": "12.5M",
   "new_md5":"07FF49E55C7D35112D58F5FA105518BA",
   "constraint": false
